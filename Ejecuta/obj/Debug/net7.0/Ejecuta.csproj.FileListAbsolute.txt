@@ -1,0 +1,15 @@
+/home/developer/Documentos/FreeCodeCam/Ejecuta/bin/Debug/net7.0/Ejecuta
+/home/developer/Documentos/FreeCodeCam/Ejecuta/bin/Debug/net7.0/Ejecuta.deps.json
+/home/developer/Documentos/FreeCodeCam/Ejecuta/bin/Debug/net7.0/Ejecuta.runtimeconfig.json
+/home/developer/Documentos/FreeCodeCam/Ejecuta/bin/Debug/net7.0/Ejecuta.dll
+/home/developer/Documentos/FreeCodeCam/Ejecuta/bin/Debug/net7.0/Ejecuta.pdb
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.csproj.AssemblyReference.cache
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.AssemblyInfoInputs.cache
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.AssemblyInfo.cs
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.csproj.CoreCompileInputs.cache
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.dll
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/refint/Ejecuta.dll
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.pdb
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/Ejecuta.genruntimeconfig.cache
+/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/Debug/net7.0/ref/Ejecuta.dll
