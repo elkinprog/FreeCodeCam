@@ -74,6 +74,11 @@
                     ourAnimals[i, 3] = "Nickname: " + animalNickname;
                     ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
                     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
+
+                    foreach (var item in ourAnimals)
+                    {
+                        Console.WriteLine(item);
+                    }
                     
             }
 
