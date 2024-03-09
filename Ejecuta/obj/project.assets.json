@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/developer/Documentos/FreeCodeCam/Ejecuta/Ejecuta.csproj",
+      "projectUniqueName": "/home/developer/Vídeos/FreeCodeCam/Ejecuta/Ejecuta.csproj",
       "projectName": "Ejecuta",
-      "projectPath": "/home/developer/Documentos/FreeCodeCam/Ejecuta/Ejecuta.csproj",
+      "projectPath": "/home/developer/Vídeos/FreeCodeCam/Ejecuta/Ejecuta.csproj",
       "packagesPath": "/home/developer/.nuget/packages/",
-      "outputPath": "/home/developer/Documentos/FreeCodeCam/Ejecuta/obj/",
+      "outputPath": "/home/developer/Vídeos/FreeCodeCam/Ejecuta/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/developer/.nuget/NuGet/NuGet.Config"
